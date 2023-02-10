@@ -8,3 +8,6 @@ Firstly download python (https://python.org) after that run setup.bat and your s
 (https://cdn.discordapp.com/attachments/1066275602035908608/1073601967663890462/image.png)
 
 I was bored so i said why not make a webhook util tool for discord and enjoy ig!
+
+
+I WILL MAKE IT A OPEN SRC IF WE GET 40 STARS ON THIS REP!
