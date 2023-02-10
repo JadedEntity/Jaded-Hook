@@ -11,3 +11,5 @@ I was bored so i said why not make a webhook util tool for discord and enjoy ig!
 
 
 I WILL MAKE IT A OPEN SRC IF WE GET 40 STARS ON THIS REP!
+
+I AM NOT RESPONISIBLE OF ANY USE OF THIS PROGRAM!
